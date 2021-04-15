@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Elthon Migotto, 17 years, from Brazil.
+- 🌱 I’m currently learning JavaScript and React
+- 📫 How to reach me elthon.migotto7@gmail.com

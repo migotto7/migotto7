@@ -1,4 +1,4 @@
-## Hi, I'm Elhon Migotto
+## Hi, I'm Elthon Migotto
 
 - 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me elthon.migotto7@gmail.com
